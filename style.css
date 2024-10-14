@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+#transactionStatus {
+    font-size: 0.9em;
+}
+
+ul {
+    margin-top: 10px;
+}
+
+.list-group-item {
+    font-size: 0.9em;
+}
